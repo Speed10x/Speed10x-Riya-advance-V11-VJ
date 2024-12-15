@@ -235,7 +235,7 @@ Nᴀᴍᴇ - {}"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
-IMDb Data:
+IMDb Data: @maximize0
 
 <b>🏷 Title</b>: <a href={url}>{title}</a>
 🎭 Genres: {genres}
@@ -243,7 +243,6 @@ IMDb Data:
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
 ☀️ Languages : <code>{languages}</code>
 📀 RunTime: {runtime} Minutes
-📆 Release Info : {release_date}
 
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
