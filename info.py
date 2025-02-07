@@ -71,7 +71,7 @@ CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "") # Necessary If clone 
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/RexieCatX_Bottt')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/RaxieCatX_Bottt')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/RexieCatX_Bott')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/testingdb2/10')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'riyasupportt') # Support Chat Link Without https:// or @
